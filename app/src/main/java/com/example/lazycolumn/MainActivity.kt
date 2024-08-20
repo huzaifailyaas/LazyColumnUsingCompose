@@ -44,7 +44,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
+//To preview our Compose
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
