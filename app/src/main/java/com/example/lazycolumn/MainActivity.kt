@@ -50,6 +50,7 @@ class MainActivity : ComponentActivity() {
 fun GreetingPreview() {
     LazyColumnTheme {
         Surface(
+            // To add Diff paameters
             modifier = Modifier.fillMaxSize()
         ) {
             // Use data from PersonRepo
